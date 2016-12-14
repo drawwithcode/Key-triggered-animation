@@ -4,6 +4,7 @@
 
 // How it works:
 // It continuously updates the dimention and the color of a circle untill it kicks a certain limit.
+// Look here for KEY CODES: http://keycode.info/
 
 var runAnimation, radius, maxRadius;
 
